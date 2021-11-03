@@ -9,3 +9,4 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 Creating
 Creating2
+c3
